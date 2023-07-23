@@ -1,2 +1,2 @@
 # skourrou
-Projet python dont le but était de créer un jeux de société peu connu en un jeux vidéo
+Projet python dont le but était de créer un jeu de société peu connu en un jeu vidéo
